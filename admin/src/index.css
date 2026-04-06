@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+.active{
+    background-color: rgb(89, 119, 218);
+    border-color: rgb(114, 95, 95);
+    color: white;
+}
+*{
+    font-family: "Libertinus Sans";
+}

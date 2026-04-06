@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# environment variables
+.env
+.env.*
+
+# uploads (multer files)
+uploads/
+public/uploads/
+
+# database dumps
+dump/
+*.bson
+
+# misc
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/

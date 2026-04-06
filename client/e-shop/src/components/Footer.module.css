@@ -1,0 +1,9 @@
+.hoverText {
+  transition: transform 0.3s;
+}
+
+.hoverText:hover {
+  transform: translateX(10px);
+  cursor: pointer;
+
+}
